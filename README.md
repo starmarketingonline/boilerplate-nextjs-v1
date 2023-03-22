@@ -1,4 +1,4 @@
-## Bae bae next boilerplate, welcome to [superplate](https://github.com/pankod/superplate)!
+## Bye bye next boilerplate, welcome to [superplate](https://github.com/pankod/superplate)!
 
 It has been a long time since we started next-boilerplate project. We are proud that it helped many frontend developers around the globe to speed up their frontend development cycles. 
 
